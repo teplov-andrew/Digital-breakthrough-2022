@@ -11,6 +11,8 @@
 
 ### Дополнительные ссылки:
 [Цифровой прорыв 2022](https://hacks-ai.ru/)  
+[Мое видео решение](https://disk.yandex.ru/d/H7LbKCeuhMDI4w)  
+[Веса](https://disk.yandex.ru/d/H2A9BQekz75zMw)  
 [Вспомогательные Kaggle Notebook для обучения данных с помощью YOLOv5](https://www.kaggle.com/code/gowrishankarp/license-plate-detection-yolov5-pytesseract/notebook)  
 [Car Plate Get Annotation Info from XML](https://www.kaggle.com/code/stpeteishii/car-plate-get-annotation-info-from-xml)  
 
