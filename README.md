@@ -6,7 +6,7 @@
 ![image](https://user-images.githubusercontent.com/69726878/186945958-e98fd36c-cbe1-4d0e-b0cd-c7f0af825765.png)
     
   
-[Мое решение]  
+Мое решение: ```cp.ipynb```  
 Детектирование автомобилей, автомобильных номеров: ```car-plate-logo-yolov5.ipynb```  
 
 ### Дополнительные ссылки:
